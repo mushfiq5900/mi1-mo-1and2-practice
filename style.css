@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+}
+#title{
+    color:#212121;
+    text-align:center;
+    font-size: 65px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+p{
+    text-align: justify;
+    font-size: 16px;
+    padding: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.paradiv{
+    width: 70%;
+    margin: auto;
+    margin-top: 10px;
+    padding: 20px;
+    text-align: center;
+}
+.paradiv1{
+    background-color: rgb(255, 172, 172);
+
+}
+.paradiv2{
+    background-color: rgb(109, 216, 114);
+
+}
+.paradiv3{
+    background-color: rgb(255, 129, 79);
+
+}
+
+.imgformat{
+    height: 500px;
+    width: 800px;
+}
+
+.fl{
+    float: left;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: #000000;
+}
